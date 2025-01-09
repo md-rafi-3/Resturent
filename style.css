@@ -18,6 +18,7 @@
   letter-spacing: 0%;
   text-align: center;
   border: none;
+   transition:0.4s ease, color 0.4s ease;
 }
 .btn:hover{
    background: #8174A0;
